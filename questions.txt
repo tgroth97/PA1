@@ -1,0 +1,3 @@
+Q1. When using make bst for the first time the files: BSTNodeInt.o, BSTInt.o, testBST.o, are all created.  
+
+Q2. 
